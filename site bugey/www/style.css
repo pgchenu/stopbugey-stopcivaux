@@ -1,0 +1,62 @@
+
+/* importation police css */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+/* style classes */
+.paragraph{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pieddepage{
+    text-align: center;
+    font-size: 4mm;
+}
+.titre{
+    text-align: center;
+    font-size: 11mm;
+    /*background: url('images/32618_large.jpg');*/
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+    color: black;  
+    border-radius: 0.1;
+}
+
+ /* style éléments*/
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-size: 9mm;
+}
+
+p{
+    font-size: 5mm;
+}
+
+a{
+    font-weight: bold;
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a:hover{
+    font-weight: bolder;
+}
+
+a:visited{
+    font-weight: bold;
+}
+
+/* style images */
+img{
+    height: auto;
+    width: 20cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
